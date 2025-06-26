@@ -1,0 +1,5 @@
+0: 'BruteForce',
+1: 'DoS/DDoS',
+2: 'Other',
+3: 'Scan',
+4: 'WebAttack'
